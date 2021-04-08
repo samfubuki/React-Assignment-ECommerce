@@ -26,15 +26,15 @@ function Footer() {
           <h2><Link to='/'>About Us</Link></h2>
          </div>
           <div class='footer-link-items'>
-          <Link to='/'><h2>Cancellation  Policy</h2></Link>
+          <h2><Link to='/'>Cancellation  Policy</Link></h2>
           </div>
         </div>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
-            <Link to="/"><h2>Privacy Policy</h2></Link>
+            <h2><Link to="/">Privacy Policy</Link></h2>
           </div>
           <div class='footer-link-items'>
-          <Link to='/'><h2>Terms and Conditions</h2></Link>
+          <h2><Link to='/'>Terms and Conditions</Link></h2>
           </div>
         </div>
        </div>

@@ -50,7 +50,7 @@ function Navbar() {
             <ul className = {click ? 'nav-menu active' : 'nav-menu'}>
             <li className = 'nav-item'>
             <form action="#">
-                <input type="search" class="search-data" placeholder="Search" required />
+                <input type="search" class="search-data" placeholder="Search For Products" required />
                 <button type="submit" class="fas fa-search"></button>
               </form>
             </li>
