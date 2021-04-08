@@ -31,7 +31,7 @@ function Footer() {
         </div>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
-            <h2>Privacy Policy</h2>
+            <Link to="/"><h2>Privacy Policy</h2></Link>
           </div>
           <div class='footer-link-items'>
           <Link to='/'><h2>Terms and Conditions</h2></Link>
